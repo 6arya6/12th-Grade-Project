@@ -1,3 +1,3 @@
-# Movie Reccomendation System
+# Movie Recommendation System
 
 MOVIE CATEGORIZATION BASED ON GENRES, RATINGS, AND POPULARITY
