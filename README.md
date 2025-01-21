@@ -1,3 +1,3 @@
-# 12th-Grade-Project
+# Movie Reccomendation System
 
 MOVIE CATEGORIZATION BASED ON GENRES, RATINGS, AND POPULARITY
